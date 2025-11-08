@@ -1,0 +1,220 @@
+1. Damini Dora | HOD | Mechanical | CDI College | damini.dora@cdicollege.com | +91 9365882213
+2. Riaan Banerjee | Analyst | Sales | NFIB Technologies | riaan.banerjee@nfibtechnologies.com | +91 9668361262
+3. Vivaan Sibal | Assistant Professor | IT | CDI College | vivaan.sibal@cdicollege.com | +91 9302283825
+4. Nakul Agarwal | Intern | Support | NFIB Technologies | nakul.agarwal@nfibtechnologies.com | +91 9852561030
+5. Tanya Thakur | Administrator | ECE | CDI College | tanya.thakur@cdicollege.com | +91 9241845330
+6. Hansh Thakkar | HR Executive | Marketing | NFIB Technologies | hansh.thakkar@nfibtechnologies.com | +91 9638578509
+7. Rohan Mane | Principal | Electronics | CDI College | rohan.mane@cdicollege.com | +91 9198003096
+8. Stuvan Korpal | Intern | HR | NFIB Technologies | stuvan.korpal@nfibtechnologies.com | +91 9621510172
+9. Manjari Dey | Professor | Mechanical | CDI College | manjari.dey@cdicollege.com | +91 9175779130
+10. Alisha Dugar | Intern | HR | NFIB Technologies | alisha.dugar@nfibtechnologies.com | +91 9259749416
+11. Zeeshan Deshmukh | Assistant Professor | IT | CDI College | zeeshan.deshmukh@cdicollege.com | +91 9216035367
+12. Tiya Tella | Team Lead | Finance | NFIB Technologies | tiya.tella@nfibtechnologies.com | +91 9861125618
+13. Tiya Venkatesh | Principal | ECE | CDI College | tiya.venkatesh@cdicollege.com | +91 9073927581
+14. Inaaya  Sane | HR Executive | Support | NFIB Technologies | inaaya..sane@nfibtechnologies.com | +91 9098952449
+15. Ahana  Borah | HOD | IT | CDI College | ahana..borah@cdicollege.com | +91 9506626151
+16. Shaan Varty | Manager | Finance | NFIB Technologies | shaan.varty@nfibtechnologies.com | +91 9863612363
+17. Divij Bhardwaj | Principal | Chemistry | CDI College | divij.bhardwaj@cdicollege.com | +91 9922593709
+18. Vardaniya Dutta | HR Executive | Sales | NFIB Technologies | vardaniya.dutta@nfibtechnologies.com | +91 9929589983
+19. Pari Kuruvilla | Lab Assistant | Computer Science | CDI College | pari.kuruvilla@cdicollege.com | +91 9630209940
+20. Saksham Kashyap | Team Lead | HR | NFIB Technologies | saksham.kashyap@nfibtechnologies.com | +91 9697473031
+21. Sara Bedi | Assistant Professor | Electronics | CDI College | sara.bedi@cdicollege.com | +91 9747946993
+22. Prisha Bhasin | Software Engineer | Finance | NFIB Technologies | prisha.bhasin@nfibtechnologies.com | +91 9464471612
+23. Saira Dubey | Dean | Physics | CDI College | saira.dubey@cdicollege.com | +91 9380683206
+24. Miraan Bhardwaj | Software Engineer | R&D | NFIB Technologies | miraan.bhardwaj@nfibtechnologies.com | +91 9711885046
+25. Mannat Handa | Dean | Physics | CDI College | mannat.handa@cdicollege.com | +91 9745819335
+26. Diya Borde | Consultant | R&D | NFIB Technologies | diya.borde@nfibtechnologies.com | +91 9436404154
+27. Kismat Sami | Lab Assistant | Chemistry | CDI College | kismat.sami@cdicollege.com | +91 9479217432
+28. Dishani Cheema | HR Executive | Sales | NFIB Technologies | dishani.cheema@nfibtechnologies.com | +91 9233328420
+29. Ishaan Sampath | Assistant Professor | Civil | CDI College | ishaan.sampath@cdicollege.com | +91 9383319376
+30. Nishith Bhattacharyya | Manager | Data Analytics | NFIB Technologies | nishith.bhattacharyya@nfibtechnologies.com | +91 9078105269
+31. Heer Chhabra | Assistant Professor | Electronics | CDI College | heer.chhabra@cdicollege.com | +91 9303156511
+32. Raghav Bawa | Software Engineer | Marketing | NFIB Technologies | raghav.bawa@nfibtechnologies.com | +91 9050975905
+33. Akarsh Bahl | Lab Assistant | Computer Science | CDI College | akarsh.bahl@cdicollege.com | +91 9907954789
+34. Adira Kaul | Manager | Software Development | NFIB Technologies | adira.kaul@nfibtechnologies.com | +91 9384804309
+35. Piya Viswanathan | Lab Assistant | MBA | CDI College | piya.viswanathan@cdicollege.com | +91 9317700804
+36. Rati Kant | Team Lead | Software Development | NFIB Technologies | rati.kant@nfibtechnologies.com | +91 9848719506
+37. Mannat Rout | Administrator | Chemistry | CDI College | mannat.rout@cdicollege.com | +91 9331934524
+38. Elakshi Rastogi | Software Engineer | R&D | NFIB Technologies | elakshi.rastogi@nfibtechnologies.com | +91 9234131360
+39. Samiha Sami | Administrator | Electronics | CDI College | samiha.sami@cdicollege.com | +91 9225854055
+40. Shayak Rau | Consultant | HR | NFIB Technologies | shayak.rau@nfibtechnologies.com | +91 9895642577
+41. Miraya Krishnan | Assistant Professor | Physics | CDI College | miraya.krishnan@cdicollege.com | +91 9325612173
+42. Manikya Mane | Software Engineer | Marketing | NFIB Technologies | manikya.mane@nfibtechnologies.com | +91 9817683100
+43. Vidur Sankar | Lab Assistant | MBA | CDI College | vidur.sankar@cdicollege.com | +91 9598521867
+44. Himmat Bhandari | Manager | HR | NFIB Technologies | himmat.bhandari@nfibtechnologies.com | +91 9269303544
+45. Ahana  Dora | Administrator | Chemistry | CDI College | ahana..dora@cdicollege.com | +91 9239042144
+46. Aarna Ahuja | Manager | Sales | NFIB Technologies | aarna.ahuja@nfibtechnologies.com | +91 9710391719
+47. Hunar Dube | Lab Assistant | Mechanical | CDI College | hunar.dube@cdicollege.com | +91 9990688088
+48. Kiara Bhardwaj | Consultant | Software Development | NFIB Technologies | kiara.bhardwaj@nfibtechnologies.com | +91 9926281118
+49. Arhaan Chakraborty | Dean | Computer Science | CDI College | arhaan.chakraborty@cdicollege.com | +91 9213004681
+50. Urvi Banik | Manager | Support | NFIB Technologies | urvi.banik@nfibtechnologies.com | +91 9461795928
+51. Nitya Sawhney | Dean | Chemistry | CDI College | nitya.sawhney@cdicollege.com | +91 9029720136
+52. Siya Krishnan | Consultant | R&D | NFIB Technologies | siya.krishnan@nfibtechnologies.com | +91 9554725306
+53. Taran Sandhu | Professor | MBA | CDI College | taran.sandhu@cdicollege.com | +91 9563844971
+54. Sumer Dar | Team Lead | R&D | NFIB Technologies | sumer.dar@nfibtechnologies.com | +91 9342090235
+55. Yashvi Kamdar | Administrator | Civil | CDI College | yashvi.kamdar@cdicollege.com | +91 9775708233
+56. Trisha Saraf | Analyst | Software Development | NFIB Technologies | trisha.saraf@nfibtechnologies.com | +91 9871439345
+57. Rohan Walia | Lab Assistant | Mechanical | CDI College | rohan.walia@cdicollege.com | +91 9499302930
+58. Vihaan Rama | Analyst | HR | NFIB Technologies | vihaan.rama@nfibtechnologies.com | +91 9548567742
+59. Myra Kade | Principal | MBA | CDI College | myra.kade@cdicollege.com | +91 9724450398
+60. Anahi Guha | Software Engineer | R&D | NFIB Technologies | anahi.guha@nfibtechnologies.com | +91 9102154135
+61. Mishti Kalita | Lab Assistant | ECE | CDI College | mishti.kalita@cdicollege.com | +91 9576215669
+62. Nirvi Loyal | Software Engineer | Marketing | NFIB Technologies | nirvi.loyal@nfibtechnologies.com | +91 9360689046
+63. Fateh Dash | Professor | ECE | CDI College | fateh.dash@cdicollege.com | +91 9318021039
+64. Ivan Sami | Consultant | Sales | NFIB Technologies | ivan.sami@nfibtechnologies.com | +91 9011308497
+65. Anika Raju | Principal | Mechanical | CDI College | anika.raju@cdicollege.com | +91 9428858677
+66. Rania Thakkar | Manager | HR | NFIB Technologies | rania.thakkar@nfibtechnologies.com | +91 9098066054
+67. Heer Kakar | Dean | Mechanical | CDI College | heer.kakar@cdicollege.com | +91 9600145902
+68. Mohanlal Bath | Software Engineer | R&D | NFIB Technologies | mohanlal.bath@nfibtechnologies.com | +91 9109768126
+69. Parinaaz Sachdev | HOD | Computer Science | CDI College | parinaaz.sachdev@cdicollege.com | +91 9086568412
+70. Amani Swamy | HR Executive | Marketing | NFIB Technologies | amani.swamy@nfibtechnologies.com | +91 9628354752
+71. Shamik Chowdhury | Professor | Physics | CDI College | shamik.chowdhury@cdicollege.com | +91 9981007601
+72. Stuvan Shere | Analyst | Sales | NFIB Technologies | stuvan.shere@nfibtechnologies.com | +91 9179565467
+73. Mishti Savant | Principal | MBA | CDI College | mishti.savant@cdicollege.com | +91 9787892950
+74. Bhavin Bali | Consultant | Software Development | NFIB Technologies | bhavin.bali@nfibtechnologies.com | +91 9104334832
+75. Aaina De | Assistant Professor | IT | CDI College | aaina.de@cdicollege.com | +91 9067904541
+76. Suhana Sood | Analyst | Data Analytics | NFIB Technologies | suhana.sood@nfibtechnologies.com | +91 9618293415
+77. Tanya Gour | Lab Assistant | Electronics | CDI College | tanya.gour@cdicollege.com | +91 9901543297
+78. Biju Boase | Manager | R&D | NFIB Technologies | biju.boase@nfibtechnologies.com | +91 9917444896
+79. Lakshay Vaidya | Principal | MBA | CDI College | lakshay.vaidya@cdicollege.com | +91 9378819558
+80. Nishith Warrior | Manager | Support | NFIB Technologies | nishith.warrior@nfibtechnologies.com | +91 9695213389
+81. Dharmajan Sarma | Principal | Mechanical | CDI College | dharmajan.sarma@cdicollege.com | +91 9375491658
+82. Tarini Arora | Consultant | R&D | NFIB Technologies | tarini.arora@nfibtechnologies.com | +91 9142858901
+83. Lavanya Hayre | Lab Assistant | Physics | CDI College | lavanya.hayre@cdicollege.com | +91 9742127081
+84. Tara Mangat | Team Lead | Sales | NFIB Technologies | tara.mangat@nfibtechnologies.com | +91 9650057396
+85. Vidur Thakur | Professor | ECE | CDI College | vidur.thakur@cdicollege.com | +91 9931696646
+86. Aarush Brahmbhatt | Team Lead | Finance | NFIB Technologies | aarush.brahmbhatt@nfibtechnologies.com | +91 9994441145
+87. Vihaan Kaul | HOD | Civil | CDI College | vihaan.kaul@cdicollege.com | +91 9696302958
+88. Yuvaan Date | Software Engineer | Finance | NFIB Technologies | yuvaan.date@nfibtechnologies.com | +91 9744925463
+89. Reyansh Ramesh | Principal | Chemistry | CDI College | reyansh.ramesh@cdicollege.com | +91 9847607701
+90. Kismat Mammen | Consultant | Sales | NFIB Technologies | kismat.mammen@nfibtechnologies.com | +91 9111437464
+91. Divit Bose | Lab Assistant | Mechanical | CDI College | divit.bose@cdicollege.com | +91 9464008363
+92. Aradhya Sane | Team Lead | Support | NFIB Technologies | aradhya.sane@nfibtechnologies.com | +91 9786517827
+93. Rhea Dave | HOD | Computer Science | CDI College | rhea.dave@cdicollege.com | +91 9580038384
+94. Divit Shenoy | Software Engineer | Sales | NFIB Technologies | divit.shenoy@nfibtechnologies.com | +91 9167129890
+95. Priyansh Gera | HOD | Mechanical | CDI College | priyansh.gera@cdicollege.com | +91 9125693364
+96. Yuvaan Sarna | Manager | Marketing | NFIB Technologies | yuvaan.sarna@nfibtechnologies.com | +91 9048078652
+97. Neysa Sankaran | HOD | Civil | CDI College | neysa.sankaran@cdicollege.com | +91 9187565571
+98. Amani Bumb | Manager | Software Development | NFIB Technologies | amani.bumb@nfibtechnologies.com | +91 9687420465
+99. Advika Thaker | HOD | ECE | CDI College | advika.thaker@cdicollege.com | +91 9457440073
+100. Uthkarsh Sankaran | Team Lead | Marketing | NFIB Technologies | uthkarsh.sankaran@nfibtechnologies.com | +91 9895842938
+101. Piya Dash | Lab Assistant | Mechanical | CDI College | piya.dash@cdicollege.com | +91 9316075141
+102. Ayesha Wagle | Consultant | Marketing | NFIB Technologies | ayesha.wagle@nfibtechnologies.com | +91 9723865305
+103. Dhruv Jain | Dean | ECE | CDI College | dhruv.jain@cdicollege.com | +91 9058124488
+104. Alia Ghose | Consultant | Data Analytics | NFIB Technologies | alia.ghose@nfibtechnologies.com | +91 9804550597
+105. Tiya Vyas | Dean | IT | CDI College | tiya.vyas@cdicollege.com | +91 9543989404
+106. Dhruv Sane | Software Engineer | Software Development | NFIB Technologies | dhruv.sane@nfibtechnologies.com | +91 9041804095
+107. Lakshit Rattan | Assistant Professor | Mechanical | CDI College | lakshit.rattan@cdicollege.com | +91 9129190033
+108. Kiaan Ray | HR Executive | Finance | NFIB Technologies | kiaan.ray@nfibtechnologies.com | +91 9149416420
+109. Trisha Das | Principal | Electronics | CDI College | trisha.das@cdicollege.com | +91 9170795132
+110. Zain Vaidya | Analyst | Sales | NFIB Technologies | zain.vaidya@nfibtechnologies.com | +91 9196289227
+111. Anika Krishnan | Administrator | Electronics | CDI College | anika.krishnan@cdicollege.com | +91 9468502744
+112. Vivaan Aggarwal | Intern | Support | NFIB Technologies | vivaan.aggarwal@nfibtechnologies.com | +91 9279632214
+113. Hiran Yogi | Assistant Professor | Mechanical | CDI College | hiran.yogi@cdicollege.com | +91 9506924801
+114. Gatik Sha | Intern | Marketing | NFIB Technologies | gatik.sha@nfibtechnologies.com | +91 9081647170
+115. Nayantara Krishna | HOD | Chemistry | CDI College | nayantara.krishna@cdicollege.com | +91 9575487094
+116. Shaan Tiwari | HR Executive | HR | NFIB Technologies | shaan.tiwari@nfibtechnologies.com | +91 9116575337
+117. Indrans Sule | Assistant Professor | Computer Science | CDI College | indrans.sule@cdicollege.com | +91 9978317408
+118. Mamooty Kala | Intern | Sales | NFIB Technologies | mamooty.kala@nfibtechnologies.com | +91 9409026899
+119. Piya Chhabra | Administrator | Computer Science | CDI College | piya.chhabra@cdicollege.com | +91 9469940654
+120. Lagan Gill | Software Engineer | R&D | NFIB Technologies | lagan.gill@nfibtechnologies.com | +91 9267688449
+121. Ranbir Doshi | Administrator | Mechanical | CDI College | ranbir.doshi@cdicollege.com | +91 9685332853
+122. Ryan Master | Intern | R&D | NFIB Technologies | ryan.master@nfibtechnologies.com | +91 9026858397
+123. Anay Savant | HOD | ECE | CDI College | anay.savant@cdicollege.com | +91 9872168080
+124. Drishya Sabharwal | Consultant | R&D | NFIB Technologies | drishya.sabharwal@nfibtechnologies.com | +91 9747883949
+125. Shaan Gole | Dean | ECE | CDI College | shaan.gole@cdicollege.com | +91 9370983797
+126. Anya Rajagopal | Analyst | Data Analytics | NFIB Technologies | anya.rajagopal@nfibtechnologies.com | +91 9160471745
+127. Dishani Rao | HOD | Computer Science | CDI College | dishani.rao@cdicollege.com | +91 9785822689
+128. Jayesh Bhavsar | Consultant | HR | NFIB Technologies | jayesh.bhavsar@nfibtechnologies.com | +91 9572354342
+129. Umang Rao | HOD | Electronics | CDI College | umang.rao@cdicollege.com | +91 9088534014
+130. Umang Venkataraman | Analyst | Support | NFIB Technologies | umang.venkataraman@nfibtechnologies.com | +91 9693915828
+131. Anahi Garg | Professor | Civil | CDI College | anahi.garg@cdicollege.com | +91 9254054305
+132. Raunak Tara | Software Engineer | R&D | NFIB Technologies | raunak.tara@nfibtechnologies.com | +91 9149586267
+133. Ehsaan Rege | Dean | ECE | CDI College | ehsaan.rege@cdicollege.com | +91 9206826731
+134. Seher Kohli | Consultant | Data Analytics | NFIB Technologies | seher.kohli@nfibtechnologies.com | +91 9244872633
+135. Nayantara Bhat | Professor | ECE | CDI College | nayantara.bhat@cdicollege.com | +91 9936532119
+136. Kabir Gole | Software Engineer | Data Analytics | NFIB Technologies | kabir.gole@nfibtechnologies.com | +91 9331638943
+137. Arhaan Banik | Lab Assistant | Computer Science | CDI College | arhaan.banik@cdicollege.com | +91 9705367854
+138. Sahil Sekhon | Intern | Data Analytics | NFIB Technologies | sahil.sekhon@nfibtechnologies.com | +91 9793275563
+139. Ishaan Ahuja | Principal | Civil | CDI College | ishaan.ahuja@cdicollege.com | +91 9156359405
+140. Romil Thakkar | Consultant | R&D | NFIB Technologies | romil.thakkar@nfibtechnologies.com | +91 9093406785
+141. Krish Mand | Dean | MBA | CDI College | krish.mand@cdicollege.com | +91 9956096505
+142. Gokul Chokshi | Analyst | Support | NFIB Technologies | gokul.chokshi@nfibtechnologies.com | +91 9520632420
+143. Dishani Atwal | Dean | IT | CDI College | dishani.atwal@cdicollege.com | +91 9945834808
+144. Badal Batta | Analyst | Data Analytics | NFIB Technologies | badal.batta@nfibtechnologies.com | +91 9681577759
+145. Tara Gara | HOD | Mechanical | CDI College | tara.gara@cdicollege.com | +91 9641275917
+146. Seher Warrior | Intern | Data Analytics | NFIB Technologies | seher.warrior@nfibtechnologies.com | +91 9196755764
+147. Vedika Dhingra | Dean | Chemistry | CDI College | vedika.dhingra@cdicollege.com | +91 9789449425
+148. Divit Joshi | Manager | Data Analytics | NFIB Technologies | divit.joshi@nfibtechnologies.com | +91 9220538988
+149. Lakshit Chaudhuri | HOD | Physics | CDI College | lakshit.chaudhuri@cdicollege.com | +91 9898626255
+150. Vivaan Goyal | Analyst | Sales | NFIB Technologies | vivaan.goyal@nfibtechnologies.com | +91 9439448242
+151. Trisha Chawla | Professor | Physics | CDI College | trisha.chawla@cdicollege.com | +91 9480693192
+152. Nakul Jayaraman | Team Lead | Software Development | NFIB Technologies | nakul.jayaraman@nfibtechnologies.com | +91 9079723159
+153. Jayan Mani | Principal | Civil | CDI College | jayan.mani@cdicollege.com | +91 9751462898
+154. Ranbir Gera | Analyst | Finance | NFIB Technologies | ranbir.gera@nfibtechnologies.com | +91 9419587420
+155. Dhanuk Sabharwal | Administrator | Computer Science | CDI College | dhanuk.sabharwal@cdicollege.com | +91 9528930933
+156. Charvi Banerjee | Manager | R&D | NFIB Technologies | charvi.banerjee@nfibtechnologies.com | +91 9287913445
+157. Shalv Bhalla | Professor | Computer Science | CDI College | shalv.bhalla@cdicollege.com | +91 9836742030
+158. Kiara Krishnan | Team Lead | Software Development | NFIB Technologies | kiara.krishnan@nfibtechnologies.com | +91 9313947670
+159. Pihu Luthra | Professor | Computer Science | CDI College | pihu.luthra@cdicollege.com | +91 9182454146
+160. Tara Subramaniam | HR Executive | Support | NFIB Technologies | tara.subramaniam@nfibtechnologies.com | +91 9321395421
+161. Baiju Baral | Principal | IT | CDI College | baiju.baral@cdicollege.com | +91 9901251576
+162. Purab Kapur | Consultant | Data Analytics | NFIB Technologies | purab.kapur@nfibtechnologies.com | +91 9282720159
+163. Raghav Batra | Administrator | Computer Science | CDI College | raghav.batra@cdicollege.com | +91 9933504055
+164. Rhea Kunda | HR Executive | Sales | NFIB Technologies | rhea.kunda@nfibtechnologies.com | +91 9793582375
+165. Ranbir Sridhar | Lab Assistant | MBA | CDI College | ranbir.sridhar@cdicollege.com | +91 9010313271
+166. Ryan Dhar | Manager | Finance | NFIB Technologies | ryan.dhar@nfibtechnologies.com | +91 9874001468
+167. Faiyaz Bandi | Professor | IT | CDI College | faiyaz.bandi@cdicollege.com | +91 9729392223
+168. Prisha Samra | Consultant | Marketing | NFIB Technologies | prisha.samra@nfibtechnologies.com | +91 9249304917
+169. Shanaya Sarkar | Assistant Professor | IT | CDI College | shanaya.sarkar@cdicollege.com | +91 9827019069
+170. Shanaya Lata | HR Executive | R&D | NFIB Technologies | shanaya.lata@nfibtechnologies.com | +91 9850814572
+171. Farhan Bhasin | Administrator | Mechanical | CDI College | farhan.bhasin@cdicollege.com | +91 9491204988
+172. Drishya Bansal | Team Lead | Software Development | NFIB Technologies | drishya.bansal@nfibtechnologies.com | +91 9600167911
+173. Aarush Sekhon | Principal | IT | CDI College | aarush.sekhon@cdicollege.com | +91 9427751852
+174. Azad Thaker | Team Lead | HR | NFIB Technologies | azad.thaker@nfibtechnologies.com | +91 9340555994
+175. Alia Chadha | Lab Assistant | Chemistry | CDI College | alia.chadha@cdicollege.com | +91 9422519885
+176. Hiran Banik | Software Engineer | Data Analytics | NFIB Technologies | hiran.banik@nfibtechnologies.com | +91 9500875601
+177. Amira Viswanathan | HOD | Physics | CDI College | amira.viswanathan@cdicollege.com | +91 9608579036
+178. Arnav Wali | Team Lead | Data Analytics | NFIB Technologies | arnav.wali@nfibtechnologies.com | +91 9115319865
+179. Ryan Mann | Principal | Electronics | CDI College | ryan.mann@cdicollege.com | +91 9825425476
+180. Gatik Mahal | Analyst | Software Development | NFIB Technologies | gatik.mahal@nfibtechnologies.com | +91 9874447704
+181. Sahil Keer | Lab Assistant | Electronics | CDI College | sahil.keer@cdicollege.com | +91 9937093912
+182. Jhanvi Dave | Team Lead | HR | NFIB Technologies | jhanvi.dave@nfibtechnologies.com | +91 9096918745
+183. Myra Ramakrishnan | HOD | Physics | CDI College | myra.ramakrishnan@cdicollege.com | +91 9211247110
+184. Samar Vig | HR Executive | Finance | NFIB Technologies | samar.vig@nfibtechnologies.com | +91 9775771226
+185. Charvi Chandra | Lab Assistant | IT | CDI College | charvi.chandra@cdicollege.com | +91 9557432407
+186. Arhaan Bal | Analyst | Marketing | NFIB Technologies | arhaan.bal@nfibtechnologies.com | +91 9725837344
+187. Piya Tak | Principal | IT | CDI College | piya.tak@cdicollege.com | +91 9170556986
+188. Ranbir Swamy | Team Lead | Finance | NFIB Technologies | ranbir.swamy@nfibtechnologies.com | +91 9715724589
+189. Anahi Singh | Professor | Electronics | CDI College | anahi.singh@cdicollege.com | +91 9445002002
+190. Nakul Chandra | Manager | Sales | NFIB Technologies | nakul.chandra@nfibtechnologies.com | +91 9123640923
+191. Madhup Deshpande | Administrator | MBA | CDI College | madhup.deshpande@cdicollege.com | +91 9212313443
+192. Jiya Bhatia | Consultant | R&D | NFIB Technologies | jiya.bhatia@nfibtechnologies.com | +91 9244513273
+193. Divyansh Khurana | Principal | Chemistry | CDI College | divyansh.khurana@cdicollege.com | +91 9772147202
+194. Hiran Vig | Consultant | R&D | NFIB Technologies | hiran.vig@nfibtechnologies.com | +91 9129888514
+195. Indrajit Chadha | Lab Assistant | Chemistry | CDI College | indrajit.chadha@cdicollege.com | +91 9161434933
+196. Kanav Karan | HR Executive | Sales | NFIB Technologies | kanav.karan@nfibtechnologies.com | +91 9068530015
+197. Indrans Chaudhari | Principal | IT | CDI College | indrans.chaudhari@cdicollege.com | +91 9639666288
+198. Alia Sani | Consultant | R&D | NFIB Technologies | alia.sani@nfibtechnologies.com | +91 9109236393
+199. Aradhya Bhatnagar | HOD | ECE | CDI College | aradhya.bhatnagar@cdicollege.com | +91 9229035559
+200. Yakshit Sarraf | HR Executive | R&D | NFIB Technologies | yakshit.sarraf@nfibtechnologies.com | +91 9763612913
+201. Anvi Khurana | Principal | Physics | CDI College | anvi.khurana@cdicollege.com | +91 9521749977
+202. Prerak Garde | Team Lead | HR | NFIB Technologies | prerak.garde@nfibtechnologies.com | +91 9309666688
+203. Pranay Soni | Administrator | MBA | CDI College | pranay.soni@cdicollege.com | +91 9084565093
+204. Himmat Shukla | HR Executive | Software Development | NFIB Technologies | himmat.shukla@nfibtechnologies.com | +91 9897536625
+205. Mannat Borra | HOD | Mechanical | CDI College | mannat.borra@cdicollege.com | +91 9821742082
+206. Gatik Mangat | Analyst | Finance | NFIB Technologies | gatik.mangat@nfibtechnologies.com | +91 9342893449
+207. Navya Rajagopalan | HOD | Mechanical | CDI College | navya.rajagopalan@cdicollege.com | +91 9705040344
+208. Veer Krishnamurthy | HR Executive | HR | NFIB Technologies | veer.krishnamurthy@nfibtechnologies.com | +91 9898968606
+209. Adira Reddy | Administrator | Electronics | CDI College | adira.reddy@cdicollege.com | +91 9760637340
+210. Baiju Ganguly | Software Engineer | Sales | NFIB Technologies | baiju.ganguly@nfibtechnologies.com | +91 9068489319
+211. Tejas Divan | HOD | Mechanical | CDI College | tejas.divan@cdicollege.com | +91 9087992624
+212. Sara Varghese | Team Lead | Data Analytics | NFIB Technologies | sara.varghese@nfibtechnologies.com | +91 9148975102
+213. Piya Apte | HOD | Chemistry | CDI College | piya.apte@cdicollege.com | +91 9502325893
+214. Jivin Jayaraman | Consultant | Support | NFIB Technologies | jivin.jayaraman@nfibtechnologies.com | +91 9988716166
+215. Trisha Devan | Lab Assistant | Electronics | CDI College | trisha.devan@cdicollege.com | +91 9292755523
+216. Tejas Bhatia | Consultant | R&D | NFIB Technologies | tejas.bhatia@nfibtechnologies.com | +91 9411337180
+217. Lakshit Kapoor | Dean | Electronics | CDI College | lakshit.kapoor@cdicollege.com | +91 9460208563
+218. Mohanlal Chhabra | HR Executive | Data Analytics | NFIB Technologies | mohanlal.chhabra@nfibtechnologies.com | +91 9936990425
+219. Kiaan Thakkar | HOD | Physics | CDI College | kiaan.thakkar@cdicollege.com | +91 9070849983
+220. Ritvik Sangha | Analyst | R&D | NFIB Technologies | ritvik.sangha@nfibtechnologies.com | +91 9063580015
