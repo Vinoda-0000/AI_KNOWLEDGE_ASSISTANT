@@ -1,0 +1,8 @@
+mysql-connector-python
+python-dotenv
+transformers
+sentence-transformers
+faiss-cpu
+PyMuPDF
+pandas
+numpy
